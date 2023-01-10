@@ -4,7 +4,7 @@ construct a personalized screen. Personalized screen displayed weather, google c
 Connected a PIR sensor to make proximity detection work (turns on/off to save power).
 
 
-
+<img src="https://user-images.githubusercontent.com/94023846/211437840-f811d620-60be-493c-91b5-b5d9b8a80784.jpg" width="250" height="320">
 
 
 
